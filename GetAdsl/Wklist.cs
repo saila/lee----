@@ -113,7 +113,7 @@ namespace GetAdsl
                     result = true;
                 }
             }
-            return result;
+            return result;//这他娘的测试
         }
     }
 }
